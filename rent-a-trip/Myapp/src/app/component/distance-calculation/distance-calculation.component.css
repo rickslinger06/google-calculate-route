@@ -1,0 +1,9 @@
+.calculate-button {
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.calculate-button:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
